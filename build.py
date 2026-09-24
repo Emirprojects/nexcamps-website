@@ -71,7 +71,7 @@ def header(inner):
     <a class="brand" href="index.html" aria-label="Nexcamp home">
       <img class="arch-light" src="img/brand/arch-white.svg" alt="" width="38" height="42">
       <img class="arch-dark" src="img/brand/arch.svg" alt="" width="38" height="42">
-      <span><span class="wordmark">NEXCAMP</span><span class="tagline">Management and Operation of Employee Housing LLC</span></span>
+      <span class="wordmark">NEXCAMP</span>
     </a>
     <nav class="nav" aria-label="Main">{links}<a class="btn btn-gold" href="contact.html#enquiry">Request a Proposal</a></nav>
     <button class="burger" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
